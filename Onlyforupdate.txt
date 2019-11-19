@@ -1,2 +1,5 @@
 Added new maps
 Added new guns
+Added new system to handle cash
+Added new knowledege system
+GUNS ARE ADDED
