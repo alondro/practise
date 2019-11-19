@@ -3,3 +3,4 @@ Added new guns
 Added new system to handle cash
 Added new knowledege system
 GUNS ARE ADDED
+FIRE SWORDS ADDED
